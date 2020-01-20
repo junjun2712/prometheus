@@ -1,0 +1,68 @@
+- targets: ['172.18.230.120:19999']
+  labels:
+    instance: test-game-bjl
+
+- targets: ['172.18.230.121:19999']
+  labels:
+    instance: test-game-brnn
+
+- targets: ['172.18.230.122:19999']
+  labels:
+    instance: test-game-brttz
+
+- targets: ['172.18.230.123:19999']
+  labels:
+    instance: test-game-d21
+
+- targets: ['172.18.230.124:19999']
+  labels:
+    instance: test-game-ddz
+
+- targets: ['172.18.230.125:19999']
+  labels:
+    instance: test-game-drbjl
+
+- targets: ['172.18.230.126:19999']
+  labels:
+    instance: test-game-dzpk
+
+- targets: ['172.18.230.127:19999']
+  labels:
+    instance: test-game-ebg
+
+- targets: ['172.18.230.128:19999']
+  labels:
+    instance: test-game-hhdz
+
+- targets: ['172.18.230.129:19999']
+  labels:
+    instance: test-game-jdsg
+
+- targets: ['172.18.230.130:19999']
+  labels:
+    instance: test-game-jdsh
+
+- targets: ['172.18.230.131:19999']
+  labels:
+    instance: test-game-jszjh
+
+- targets: ['172.18.230.132:19999']
+  labels:
+    instance: test-game-kpqznn
+
+- targets: ['172.18.230.133:19999']
+  labels:
+    instance: test-game-lh
+
+- targets: ['172.18.230.134:19999']
+  labels:
+    instance: test-game-pdk
+
+- targets: ['172.18.230.135:19999']
+  labels:
+    instance: test-game-qhb
+
+- targets: ['172.18.230.136:19999']
+  labels:
+    instance: test-game-qhbhb
+
