@@ -1,0 +1,68 @@
+- targets: ['172.18.230.120:41001']
+  labels:
+    instance: test-bjl-41001
+    group: tcp
+
+- targets: ['172.18.230.121:41101']
+  labels:
+    instance: test-brnn-41101
+    group: tcp
+
+- targets: ['172.18.230.122:43301']
+  labels:
+    instance: test-brttz-43301
+    group: tcp
+
+- targets: ['172.18.230.123:41201']
+  labels:
+    instance: test-d21-41201
+    group: tcp
+
+- targets: ['172.18.230.124:42601']
+  labels:
+    instance: test-ddz-42601
+    group: tcp
+
+
+- targets: ['172.18.230.126:41401']
+  labels:
+    instance: test-dzpk-41401
+    group: tcp
+
+- targets: ['172.18.230.127:41501']
+  labels:
+    instance: test-ebg-41501
+    group: tcp
+
+- targets: ['172.18.230.144:43401']
+  labels:
+    instance: test-gdmj-43401
+    group: tcp
+
+- targets: ['172.18.230.128:41601']
+  labels:
+    instance: test-hhdz-41601
+    group: tcp
+
+- targets: ['172.18.230.129:42801']
+  labels:
+    instance: test-jdsg-42801
+    group: tcp
+
+- targets: ['172.18.230.130:42901']
+  labels:
+    instance: test-jdsh-42901
+    group: tcp
+
+- targets: ['172.18.230.131:43001']
+  labels:
+    instance: test-jszjh-43001
+    group: tcp
+
+- targets: ['172.18.230.132:41701']
+  labels:
+    instance: test-kpqznn-41701
+    group: tcp
+
+- targets: ['172.18.230.133:42301']
+  labels:
