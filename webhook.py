@@ -63,4 +63,11 @@ def postAlertmanager():
 if __name__ == '__main__':
     logging.basicConfig(filename='flaskAlert.log', level=logging.INFO)
     app.run(debug=True,host='0.0.0.0', port=9119)
+    
+
+requirements.txt 
+flask
+python-telegram-bot
+Flask-BasicAuth
+gunicorn
 ~                                                        
